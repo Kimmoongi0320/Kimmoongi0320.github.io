@@ -27,7 +27,7 @@ git에서 파일을 저장하는 장소는 크게 local과 remote로 나눌 수 
 git add 이라는 명령어를 통해 working에서 staging으로 상태를 변경 할 수 있고 git commit 명령어를 통해 staging에서 지역(local) 저장소로 파일을 옮길 수 있으며
 git push를 통하여 파일 들을 지역(local)저장소에서 원격(remote)저장소로 이동 시킬 수 있다.
 ### 2-2 원격(remote)저장소란?
-원격 저장소 라는 것은 it이 제공하는 저장소를 의미한다. 
+원격 저장소 라는 것은 git이 제공하는 저장소를 의미한다. 
 
 ## 3. Github
 
